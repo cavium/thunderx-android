@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch=".." name="aosp" review="https://android-review.googlesource.com/"/>
+    <remote fetch="https://android.googlesource.com" name="aosp" review="https://android-review.googlesource.com/"/>
   <remote fetch="git://anongit.freedesktop.org/" name="freedesktop"/>
   <remote fetch="http://github.com/96boards" name="github"/>
   <remote fetch="https://git.linaro.org/people/john.stultz" name="johnstultz"/>
